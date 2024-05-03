@@ -1,6 +1,4 @@
 '''
-    Beini Wang
-    CS5001, Spring 2023
     Project Game 2048
     This is a program of a GameTest class that tests all not helper/turtle 
     methods in Game class.
